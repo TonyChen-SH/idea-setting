@@ -119,6 +119,7 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
