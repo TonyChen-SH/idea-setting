@@ -32,6 +32,9 @@
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
