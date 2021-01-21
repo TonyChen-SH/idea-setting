@@ -150,6 +150,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
