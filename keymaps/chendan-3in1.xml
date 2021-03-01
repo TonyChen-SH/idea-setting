@@ -101,6 +101,7 @@
   <action id="EditorTab">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
