@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="商户" />
       <item value="queue" />
       <item value="qu" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613701156012" />
+    <option name="lastTrimTime" value="1614742334403" />
   </component>
 </application>
