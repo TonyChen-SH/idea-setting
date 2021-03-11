@@ -1,9 +1,21 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="started at" />
+      <item value="started a" />
+      <item value="started" />
+      <item value="start" />
+      <item value="star" />
+      <item value="w" />
+      <item value="起止时间" />
+      <item value="qi'zhi" />
+      <item value="频道&#10;" />
+      <item value="pin'dao" />
+      <item value="pin" />
+      <item value="ping'dao" />
       <item value="协议" />
       <item value="商户" />
       <item value="queue" />
