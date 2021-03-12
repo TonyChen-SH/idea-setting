@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="价格区间" />
+      <item value="价格区间&#10;" />
       <item value="cascaded&#10;" />
       <item value="javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'persist' call" />
       <item value="Present" />
