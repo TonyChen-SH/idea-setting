@@ -1,9 +1,23 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="小于&#10;" />
+      <item value="Greater than" />
+      <item value="Greater than " />
+      <item value="比某个数大" />
+      <item value="比某个数da" />
+      <item value="比m" />
+      <item value="比" />
+      <item value="bi" />
+      <item value="grea than" />
+      <item value="great than" />
+      <item value="great t" />
+      <item value="great" />
+      <item value="grea" />
+      <item value="大于&#10;" />
       <item value="价格区间" />
       <item value="价格区间&#10;" />
       <item value="cascaded&#10;" />
