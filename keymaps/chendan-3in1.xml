@@ -140,6 +140,7 @@
     <mouse-shortcut keystroke="shift control button1" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="IdeaVim.ReloadVimRc.reload" />
   <action id="IntroduceParameter" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl n" />

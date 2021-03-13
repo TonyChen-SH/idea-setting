@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="一般" />
+      <item value="普通&#10;" />
+      <item value="pu" />
+      <item value="p" />
       <item value="javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'persist' call" />
       <item value="Present" />
       <item value="Present&#10;" />
