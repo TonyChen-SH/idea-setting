@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="截止时间&#10;" />
+      <item value="jie'zhi" />
       <item value="后缀" />
       <item value="hou'z" />
       <item value="huo" />
