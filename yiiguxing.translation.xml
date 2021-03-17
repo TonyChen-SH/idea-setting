@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="后缀" />
+      <item value="hou'z" />
+      <item value="huo" />
+      <item value="后缀名" />
+      <item value="hou'zui'm" />
+      <item value="zui'hou" />
       <item value="oldest" />
       <item value="oldest&#10;" />
       <item value="intentions &#10;" />
@@ -51,6 +57,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615286201897" />
+    <option name="lastTrimTime" value="1615964279212" />
   </component>
 </application>
