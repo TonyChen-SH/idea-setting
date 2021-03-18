@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\src\main\java\com\cs\commonapi'" />
-    <option name="defaultScopeName" value="Directory '...\src\main\java\com\cs\commonapi'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\src\main\java\com\cs\commonapi'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>xn</mask>
   </component>
 </application>
