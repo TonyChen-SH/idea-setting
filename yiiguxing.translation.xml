@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="c" />
+      <item value="premission" />
+      <item value="premis" />
+      <item value="pre" />
+      <item value="p" />
+      <item value="权限&#10;" />
+      <item value="quan'xi" />
       <item value="截止时间&#10;" />
       <item value="jie'zhi" />
       <item value="后缀" />
@@ -47,10 +54,6 @@
       <item value="pin'dao" />
       <item value="pin" />
       <item value="ping'dao" />
-      <item value="协议" />
-      <item value="商户" />
-      <item value="queue" />
-      <item value="qu" />
     </histories>
     <option name="languageScores">
       <map>
