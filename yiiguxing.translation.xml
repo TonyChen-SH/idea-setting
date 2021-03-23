@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="计算&#10;" />
+      <item value="计算" />
+      <item value="ji'suan" />
+      <item value="ji" />
       <item value="c" />
       <item value="premission" />
       <item value="premis" />
@@ -50,10 +54,6 @@
       <item value="w" />
       <item value="起止时间" />
       <item value="qi'zhi" />
-      <item value="频道&#10;" />
-      <item value="pin'dao" />
-      <item value="pin" />
-      <item value="ping'dao" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615964279212" />
+    <option name="lastTrimTime" value="1616467241107" />
   </component>
 </application>
