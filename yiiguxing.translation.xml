@@ -1,18 +1,48 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="重新修正" />
-      <item value="修正" />
-      <item value="修正&#10;" />
-      <item value="xiu'z" />
-      <item value="x" />
-      <item value="一般" />
-      <item value="普通&#10;" />
-      <item value="pu" />
+      <item value="计算&#10;" />
+      <item value="计算" />
+      <item value="ji'suan" />
+      <item value="ji" />
+      <item value="c" />
+      <item value="premission" />
+      <item value="premis" />
+      <item value="pre" />
       <item value="p" />
+      <item value="权限&#10;" />
+      <item value="quan'xi" />
+      <item value="截止时间&#10;" />
+      <item value="jie'zhi" />
+      <item value="后缀" />
+      <item value="hou'z" />
+      <item value="huo" />
+      <item value="后缀名" />
+      <item value="hou'zui'm" />
+      <item value="zui'hou" />
+      <item value="oldest" />
+      <item value="oldest&#10;" />
+      <item value="intentions &#10;" />
+      <item value="小于&#10;" />
+      <item value="Greater than" />
+      <item value="Greater than " />
+      <item value="比某个数大" />
+      <item value="比某个数da" />
+      <item value="比m" />
+      <item value="比" />
+      <item value="bi" />
+      <item value="grea than" />
+      <item value="great than" />
+      <item value="great t" />
+      <item value="great" />
+      <item value="grea" />
+      <item value="大于&#10;" />
+      <item value="价格区间" />
+      <item value="价格区间&#10;" />
+      <item value="cascaded&#10;" />
       <item value="javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'persist' call" />
       <item value="Present" />
       <item value="Present&#10;" />
@@ -24,14 +54,6 @@
       <item value="w" />
       <item value="起止时间" />
       <item value="qi'zhi" />
-      <item value="频道&#10;" />
-      <item value="pin'dao" />
-      <item value="pin" />
-      <item value="ping'dao" />
-      <item value="协议" />
-      <item value="商户" />
-      <item value="queue" />
-      <item value="qu" />
     </histories>
     <option name="languageScores">
       <map>
@@ -40,6 +62,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615286201897" />
+    <option name="lastTrimTime" value="1616467241107" />
   </component>
 </application>
