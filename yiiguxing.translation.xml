@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="用户授权&#10;" />
+      <item value="授权&#10;" />
       <item value="计算&#10;" />
       <item value="计算" />
       <item value="ji'suan" />
@@ -52,8 +54,6 @@
       <item value="start" />
       <item value="star" />
       <item value="w" />
-      <item value="起止时间" />
-      <item value="qi'zhi" />
     </histories>
     <option name="languageScores">
       <map>
