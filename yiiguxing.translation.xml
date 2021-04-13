@@ -1,9 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="refact&#10;" />
+      <item value="refact" />
+      <item value="有用的" />
+      <item value="有效的" />
+      <item value="is valid" />
+      <item value="is" />
+      <item value="是否有效" />
+      <item value="是否you" />
+      <item value="用户授权&#10;" />
+      <item value="授权&#10;" />
       <item value="计算&#10;" />
       <item value="计算" />
       <item value="ji'suan" />
@@ -44,16 +54,6 @@
       <item value="价格区间&#10;" />
       <item value="cascaded&#10;" />
       <item value="javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'persist' call" />
-      <item value="Present" />
-      <item value="Present&#10;" />
-      <item value="started at" />
-      <item value="started a" />
-      <item value="started" />
-      <item value="start" />
-      <item value="star" />
-      <item value="w" />
-      <item value="起止时间" />
-      <item value="qi'zhi" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616467241107" />
+    <option name="lastTrimTime" value="1617689848003" />
   </component>
 </application>
