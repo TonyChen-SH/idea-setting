@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="宙斯&#10;" />
+      <item value="zou'si" />
       <item value="宙斯" />
       <item value="refact&#10;" />
       <item value="refact" />
@@ -52,8 +54,6 @@
       <item value="grea" />
       <item value="大于&#10;" />
       <item value="价格区间" />
-      <item value="价格区间&#10;" />
-      <item value="cascaded&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617689848003" />
+    <option name="lastTrimTime" value="1619164594227" />
   </component>
 </application>
