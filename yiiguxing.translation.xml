@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Mutable&#10;" />
       <item value="字段" />
       <item value="z" />
       <item value="连接符号&#10;" />
@@ -53,7 +54,6 @@
       <item value="比某个数da" />
       <item value="比m" />
       <item value="比" />
-      <item value="bi" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619164594227" />
+    <option name="lastTrimTime" value="1619667438137" />
   </component>
 </application>
