@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="556" />
+    <option name="newTranslationDialogWidth" value="554" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="分账" />
+      <item value="拆分" />
       <item value="可用的使用" />
       <item value="可用的" />
       <item value="j" />
@@ -52,17 +54,15 @@
       <item value="is" />
       <item value="是否有效" />
       <item value="是否you" />
-      <item value="用户授权&#10;" />
-      <item value="授权&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="83" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621860490049" />
+    <option name="lastTrimTime" value="1622716364743" />
   </component>
 </application>
