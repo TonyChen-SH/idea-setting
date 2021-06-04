@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="计算" />
       <item value="分账" />
       <item value="拆分" />
       <item value="可用的使用" />
@@ -53,12 +54,11 @@
       <item value="is valid" />
       <item value="is" />
       <item value="是否有效" />
-      <item value="是否you" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="89" />
       </map>
     </option>
   </component>
