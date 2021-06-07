@@ -1,15 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="550" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="可用的功能" />
+      <item value="可用的" />
+      <item value="avaliable" />
+      <item value="ava" />
+      <item value="a" />
       <item value="because&#10;" />
       <item value="计算" />
       <item value="分账" />
       <item value="拆分" />
       <item value="可用的使用" />
-      <item value="可用的" />
       <item value="j" />
       <item value="ke't'yo'i'n" />
       <item value="加密&#10;" />
@@ -34,7 +38,6 @@
       <item value="s" />
       <item value="assign" />
       <item value="assi" />
-      <item value="a" />
       <item value="指定商品可用" />
       <item value="指定商品" />
       <item value="Mutable&#10;" />
@@ -51,14 +54,11 @@
       <item value="refact&#10;" />
       <item value="refact" />
       <item value="有用的" />
-      <item value="有效的" />
-      <item value="is valid" />
-      <item value="is" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="102" />
       </map>
     </option>
   </component>
