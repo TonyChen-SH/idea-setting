@@ -1,9 +1,27 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="550" />
+    <option name="newTranslationDialogWidth" value="548" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Greater than" />
+      <item value="Greater thn" />
+      <item value="Greater tha" />
+      <item value="Greater" />
+      <item value="大于、小于、等于" />
+      <item value="大于、小于、" />
+      <item value="大于、小于" />
+      <item value="大于、" />
+      <item value="大于" />
+      <item value="greatthan" />
+      <item value="great than" />
+      <item value="great" />
+      <item value="greathan" />
+      <item value="greatah" />
+      <item value="grea" />
+      <item value="gra" />
+      <item value="gr" />
+      <item value="g" />
       <item value="可用的功能" />
       <item value="可用的" />
       <item value="avaliable" />
@@ -36,33 +54,15 @@
       <item value="丢失" />
       <item value="diu" />
       <item value="s" />
-      <item value="assign" />
-      <item value="assi" />
-      <item value="指定商品可用" />
-      <item value="指定商品" />
-      <item value="Mutable&#10;" />
-      <item value="字段" />
-      <item value="z" />
-      <item value="连接符号&#10;" />
-      <item value="连接fui&#10;" />
-      <item value="连接符&#10;" />
-      <item value="lian'jie'fu" />
-      <item value="lian" />
-      <item value="宙斯&#10;" />
-      <item value="zou'si" />
-      <item value="宙斯" />
-      <item value="refact&#10;" />
-      <item value="refact" />
-      <item value="有用的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="116" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622716364743" />
+    <option name="lastTrimTime" value="1623380292531" />
   </component>
 </application>
