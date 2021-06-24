@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="548" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="最高的" />
       <item value="Greater than" />
       <item value="Greater thn" />
       <item value="Greater tha" />
@@ -53,16 +54,15 @@
       <item value="yon" />
       <item value="丢失" />
       <item value="diu" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="122" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623380292531" />
+    <option name="lastTrimTime" value="1624503587670" />
   </component>
 </application>
