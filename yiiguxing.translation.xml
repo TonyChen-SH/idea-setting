@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="转义字符&#10;" />
+      <item value="转义&#10;字符&#10;" />
+      <item value="zhuan'yi字符&#10;" />
+      <item value="转移字符&#10;" />
       <item value="架构" />
       <item value="RETURN MCHID" />
       <item value="流转" />
@@ -50,15 +54,11 @@
       <item value="计算" />
       <item value="分账" />
       <item value="拆分" />
-      <item value="可用的使用" />
-      <item value="j" />
-      <item value="ke't'yo'i'n" />
-      <item value="加密&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="183" />
       </map>
     </option>
   </component>
