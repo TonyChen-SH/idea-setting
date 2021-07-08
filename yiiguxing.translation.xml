@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="调用方" />
       <item value="来源" />
       <item value="转义字符&#10;" />
       <item value="转义&#10;字符&#10;" />
@@ -53,12 +54,11 @@
       <item value="a" />
       <item value="because&#10;" />
       <item value="计算" />
-      <item value="分账" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="203" />
       </map>
     </option>
   </component>
