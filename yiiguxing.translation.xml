@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="OUT ORDER NO" />
       <item value="调用方" />
       <item value="来源" />
       <item value="转义字符&#10;" />
@@ -53,12 +54,11 @@
       <item value="ava" />
       <item value="a" />
       <item value="because&#10;" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="ENGLISH" value="204" />
       </map>
     </option>
   </component>
