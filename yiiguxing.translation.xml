@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="526" />
+    <option name="newTranslationDialogWidth" value="524" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="阻塞" />
+      <item value="zhu'se" />
+      <item value="zhu's" />
       <item value="库存" />
       <item value="K" />
       <item value="stock" />
@@ -51,14 +54,11 @@
       <item value="Greater than" />
       <item value="Greater thn" />
       <item value="Greater tha" />
-      <item value="Greater" />
-      <item value="大于、小于、等于" />
-      <item value="大于、小于、" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="275" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
