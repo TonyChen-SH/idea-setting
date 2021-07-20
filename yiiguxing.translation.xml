@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Library" />
+      <item value="库" />
+      <item value="ku" />
       <item value="宙斯&#10;" />
       <item value="zou'si" />
       <item value="宙斯" />
@@ -51,17 +54,15 @@
       <item value="great than" />
       <item value="great t" />
       <item value="great" />
-      <item value="grea" />
-      <item value="大于&#10;" />
-      <item value="价格区间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619164594227" />
+    <option name="lastTrimTime" value="1626768421225" />
   </component>
 </application>
