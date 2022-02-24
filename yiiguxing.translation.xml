@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="843" />
     <option name="newTranslationDialogY" value="662" />
     <histories>
+      <item value="contact" />
+      <item value="联系人" />
+      <item value="联系r" />
+      <item value="联系" />
+      <item value="lian x" />
+      <item value="lia" />
+      <item value="l" />
+      <item value="练习" />
+      <item value="concact" />
+      <item value="con" />
+      <item value="ti" />
       <item value="in favor of" />
       <item value="computeIfAbsent" />
       <item value="compute If Absent" />
@@ -17,11 +28,9 @@
       <item value="lian'xi" />
       <item value="The job has 0 registered types and 0 default Kryo serializers" />
       <item value="练习c" />
-      <item value="练习" />
       <item value="练习 " />
       <item value="练习册" />
       <item value="lai'x'ni" />
-      <item value="联系" />
       <item value="p" />
       <item value="转换" />
       <item value="modules" />
@@ -45,25 +54,16 @@
       <item value="金额" />
       <item value="jin'e" />
       <item value="ji's" />
-      <item value="redis" />
-      <item value="nonce" />
-      <item value="sign" />
-      <item value="状态流转" />
-      <item value="并发" />
-      <item value="bin'f" />
-      <item value="bi'f" />
-      <item value="OUT ORDER NO" />
-      <item value="调用方" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="346" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645016703562" />
+    <option name="lastTrimTime" value="1645710755421" />
   </component>
 </application>
