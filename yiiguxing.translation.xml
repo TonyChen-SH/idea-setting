@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="843" />
     <option name="newTranslationDialogY" value="662" />
     <histories>
+      <item value="fakehuman" />
+      <item value="fakehu" />
+      <item value="fake" />
+      <item value="fa" />
+      <item value="zi" />
       <item value="资料" />
       <item value="材料" />
       <item value="c" />
@@ -49,22 +54,17 @@
       <item value="库存" />
       <item value="K" />
       <item value="stock" />
-      <item value="资金结算" />
-      <item value="结算结算" />
-      <item value="结算" />
-      <item value="金额结算" />
-      <item value="金额ji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="364" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646160463609" />
+    <option name="lastTrimTime" value="1647280259475" />
   </component>
   <component name="Settings">
     <option name="youdaoTranslateSettings">
