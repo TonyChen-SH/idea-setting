@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="843" />
     <option name="newTranslationDialogY" value="662" />
     <histories>
+      <item value="properties&#10;" />
+      <item value="properties" />
+      <item value="property" />
+      <item value="prop" />
+      <item value="p r" />
+      <item value="属性" />
+      <item value="s" />
+      <item value="排除" />
+      <item value="pa" />
       <item value="write" />
       <item value="fakehuman" />
       <item value="fakehu" />
@@ -45,20 +54,11 @@
       <item value="modules" />
       <item value="mo" />
       <item value="j" />
-      <item value="minus" />
-      <item value="复数" />
-      <item value="fu'shu" />
-      <item value="f" />
-      <item value="阻塞" />
-      <item value="zhu'se" />
-      <item value="zhu's" />
-      <item value="库存" />
-      <item value="K" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="400" />
+        <entry key="ENGLISH" value="387" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
