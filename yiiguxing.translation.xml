@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="271" />
     <option name="newTranslationDialogWidth" value="516" />
-    <option name="newTranslationDialogX" value="843" />
-    <option name="newTranslationDialogY" value="662" />
+    <option name="newTranslationDialogX" value="1434" />
+    <option name="newTranslationDialogY" value="626" />
     <histories>
       <item value="可以用的" />
       <item value="可用的" />
@@ -65,12 +66,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1647723048475" />
-  </component>
-  <component name="Settings">
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </youdao-translate>
-    </option>
   </component>
 </application>
