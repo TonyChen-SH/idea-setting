@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1434" />
     <option name="newTranslationDialogY" value="626" />
     <histories>
+      <item value="无效&#10;" />
+      <item value="无效" />
       <item value="可以用的" />
       <item value="可用的" />
       <item value="properties&#10;" />
@@ -53,18 +55,16 @@
       <item value="练习册" />
       <item value="lai'x'ni" />
       <item value="p" />
-      <item value="转换" />
-      <item value="modules" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="CHINESE" value="416" />
+        <entry key="ENGLISH" value="403" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647723048475" />
+    <option name="lastTrimTime" value="1648975066787" />
   </component>
 </application>
