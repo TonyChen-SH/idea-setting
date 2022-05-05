@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1434" />
     <option name="newTranslationDialogY" value="626" />
     <histories>
+      <item value="手动&#10;" />
+      <item value="s" />
       <item value="访问" />
       <item value="无效&#10;" />
       <item value="无效" />
@@ -16,7 +18,6 @@
       <item value="prop" />
       <item value="p r" />
       <item value="属性" />
-      <item value="s" />
       <item value="排除" />
       <item value="pa" />
       <item value="write" />
@@ -54,18 +55,17 @@
       <item value="练习c" />
       <item value="练习 " />
       <item value="练习册" />
-      <item value="lai'x'ni" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="419" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649495504366" />
+    <option name="lastTrimTime" value="1651771714476" />
   </component>
   <component name="Settings">
     <option name="youdaoTranslateSettings">
